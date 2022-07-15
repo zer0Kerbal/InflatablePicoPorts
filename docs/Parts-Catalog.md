@@ -26,12 +26,12 @@ This add-on adds four (4) coupling parts
 * Inflatable PicoPort Basic
 * Inflatable PicoPort Plus
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortB_icon.png" alt="Basic" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortP_icon.png" alt="Plus" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/KGEx/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortB_icon.png" alt="Basic" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/KGEx/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortP_icon.png" alt="Plus" width="25%" height="25%" />
 
 * Inflatable PicoPort Female (gendered)
 * Inflatable PicoPort Male (gendered)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortF_icon.png" alt="Female (gendered)" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortM_icon.png" alt="Male (gendered)" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/KGEx/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortF_icon.png" alt="Female (gendered)" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/InflatablePicoPorts/master/GameData/KGEx/InflatablePicoPorts/Parts/%40thumbs/InflatablePicoPortM_icon.png" alt="Male (gendered)" width="25%" height="25%" />
 
 ---
 
