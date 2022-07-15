@@ -90,16 +90,12 @@ or [![CKAN][CKAN:img]][CKAN:url]
 * [Docking Port Descriptions (DPD)][DPD]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [On Demand Fuel Cells (ODFC)][ODFC]
-* [Stock Inline Lighting (SIL)][SIL]
-* [Stock Inline Lighting Patches(SILP)][SILP]
 
 ### Supports
 
 * Either [^3]
   * [Module Manager][mm]
   * [Module Manager /L][mml]
-* [Stock Inline Lighting (SIL)][SIL]
-* [Stock Inline Lighting Patches(SILP)][SILP]
 * [Connected Living Space][cls]
 * [ReStock][restock]
 * [TweakScale][twk]
