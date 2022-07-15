@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # Inflatable PicoPorts (IPP)
 
-Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part mod.
+Adds Inflatable PicoPorts to Kerbal Space Program. Requires PicoPorts part mod and Making History (DLC).
 
 ## An original parts addon [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
 
@@ -21,11 +21,11 @@ Adds shielded PicoPorts to Kerbal Space Program. Requires [PicoPorts][pp] part m
 
 ### Parts
 
-* 0.625 (Size0) Inflatable PicoPort Basic
-* 0.625m (Size0) Shielded PicoPort Basic
-* 0.625m (Size0) Shielded PicoPort Female
-* 0.625m (Size0) Shielded PicoPort Male
-* 0.625m (Size0) Shielded PicoPort Plus
+* Inflatable
+  * PicoPort Basic
+  * PicoPort Female
+  * PicoPort Male
+  * PicoPort Plus
 
 ### See More
 
@@ -81,7 +81,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* Making History (DLC)
+* [Making History (DLC)](https://www.kerbalspaceprogram.com/games-kerbal-space-program-making-history-expansion)
 * [PicoPort][pp]
 
 ### Suggests
@@ -165,7 +165,7 @@ parts, config
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:0:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-GPLv2-A42E2B?style=plastic&labelColor=white&logoColor=A42E2B&logo=gnu "GPLv2"
+[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-SA 4.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
