@@ -17,8 +17,12 @@
 
 ### Status
 
-* >>-- creation by zer0Kerbal --<<
+* Adds Inflatable PicoPorts to Kerbal Space Program.
+* Requires:
+  * Making History (DLC)
+  * PicoPorts part addon
 
+## `>>-- creation by zer0Kerbal --<<`
 
 ### Parts
 
