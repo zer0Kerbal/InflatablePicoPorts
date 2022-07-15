@@ -33,6 +33,14 @@
   * [InflatablePicoPortM.cfg] v1.0.0.0
   * [InflatablePicoPortP.cfg] v1.0.0.0
 
+### Compatibility
+
+* Add
+  * [ConnectedLivingSpace.cfg] v1.0.0.0
+  * [ReStock.cfg] v1.0.0.0
+    * [InflatablePicoPorts.restockwhitelist] v1.0.0.0
+  * [TweakScale.cfg] v1.0.0.0
+
 ### docs/
 
 * Add
