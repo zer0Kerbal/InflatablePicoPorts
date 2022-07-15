@@ -13,7 +13,7 @@ updated: 05 Jul 2022 -->
 
 # Inflatable PicoPorts (IPP)
 
-Adds Inflatable PicoPorts to Kerbal Space Program. Requires PicoPorts part mod and Making History (DLC).
+Adds Inflatable PicoPorts to Kerbal Space Program. Requires PicoPorts part addon and Making History (DLC).
 
 ## An original parts addon [`zer0Kerbal`][zer0Kerbal] and brought to you by *KerbSimpleCo*
 
