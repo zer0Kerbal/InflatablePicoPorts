@@ -19,11 +19,6 @@
 
 * >>-- creation by zer0Kerbal --<<
 
-### Config
-
-* [InflatablePicoPorts.cfg] v1.0.0.0
-  * purpose is to simplify the translation process by limiting the number of strings to translate
-  * scraps/mines as much as possible from Squad's [dictionary.cfg]
 
 ### Parts
 
@@ -32,6 +27,12 @@
   * [InflatablePicoPortF.cfg] v1.0.0.0
   * [InflatablePicoPortM.cfg] v1.0.0.0
   * [InflatablePicoPortP.cfg] v1.0.0.0
+
+### Config
+
+* [InflatablePicoPorts.cfg] v1.0.0.0
+  * purpose is to simplify the translation process by limiting the number of strings to translate
+  * scraps/mines as much as possible from Squad's [dictionary.cfg]
 
 ### Compatibility
 
